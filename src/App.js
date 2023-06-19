@@ -44,7 +44,7 @@ class ChangingTextAnimation extends React.Component {
     this.state = {
       currentIndex: 0,
       texts: [
-        "Welcome to my portfolio!",
+        "Welcome to my portfolio !",
         "Check out my projects.",
         "Read my latest blog posts.",
         "Contact me for collaborations.",
